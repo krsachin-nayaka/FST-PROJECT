@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard",
+  "description": "Intelligent URL Risk Analyzer and Phishing Awareness Dashboard by K R SACHIN (USN: 1NH23CS106)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
